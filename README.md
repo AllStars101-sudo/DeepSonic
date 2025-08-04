@@ -73,12 +73,16 @@ conda install pytorch=1.1 torchvision=0.3 cudatoolkit=10.0 -c pytorch
 pip install -v --no-cache-dir --global-option="--cpp_ext" --global-option="--cuda_ext" ./apex
 
 ## 🧪 Experiments & Use Cases
--Generate jazz or classical pieces from scratch
--Style transfer using music transformers
--MIDI-driven AI remixing
--High-quality audio synthesis using Jukebox
 
-##🙏 Acknowledgements
--Magenta by Google
--Jukebox by OpenAI
--DDSP
+- Generate jazz or classical pieces from scratch  
+- Style transfer using music transformers  
+- MIDI-driven AI remixing  
+- High-quality audio synthesis using Jukebox  
+
+---
+
+## 🙏 Acknowledgements
+
+- [Magenta by Google](https://github.com/magenta/magenta)  
+- [Jukebox by OpenAI](https://github.com/openai/jukebox)  
+- [DDSP](https://github.com/magenta/ddsp)  
